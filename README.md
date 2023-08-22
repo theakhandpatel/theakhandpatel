@@ -28,22 +28,8 @@ Here are some of the technologies I'm familiar with:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 
-## Projects
 
-Here are some of the projects I've worked on:
-
-1. [Simple Redis Implementation](https://github.com/theakhandpatel/redis-server) (Golang)
-2. [COAP Results Upload Tracker](https://github.com/theakhandpatel/COAP_RESULTS_UPLOAD_TRACKER) (Node.js)
-3. Scalable Pharmaceutical Supply Chain using Blockchain (HyperLedger, IPFS)
-4. Similarity Index between documents (Plagiarism Detection) Python
-5. [Cloud Storage Solution](https://drive.theakhandpatel.me/) (React and Firebase)
-6. [CryptoCurrency Price Tracker Alarm Extension](https://github.com/theakhandpatel/BUY_THE_DIP) (Chrome V2 Manifest)
-7. [Personal Online Image Gallery](https://firegram.theakhandpatel.me) (React, Firebase)
-8. [Youtube Video Downloader](https://github.com/theakhandpatel/YouLoader) (MERN)
-9. [Simple WhatsApp Clone](https://whatsup.theakhandpatel.me/) (React, Firebase)
-10. [Movie Info Cataloguing Website](https://netflic.theakhandpatel.me/) (React, Firebase)
-
-## Blogs I Read
+## Blogs I Like to Read
 
 Here are some tech blogs I regularly read:
 
