@@ -10,7 +10,7 @@ Here is my [Resume](https://theakhandpatel.github.io/files/resume.pdf) for more 
 
 ## Why is my website not using the latest frameworks?
 
-Because I don't need to. I believe in simplicity and efficiency. If you're curious about this approach, check out the philosophy of [mother*******website](https://motherfuckingwebsite.com/).
+Because I don't need to. I believe in simplicity and efficiency. If you're curious about this approach, check out the philosophy of [here](https://motherfuckingwebsite.com/).
 
 ## Tech I Know
 
@@ -28,16 +28,6 @@ Here are some of the technologies I'm familiar with:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 
-
-## Blogs I Like to Read
-
-Here are some tech blogs I regularly read:
-
-- [CloudFlare Blog](https://blog.cloudflare.com/)
-- [Netflix TechBlog](https://netflixtechblog.com/)
-- [Spotify Engineering Blog](https://engineering.atspotify.com/)
-- [Uber Engineering Blog](https://www.uber.com/en-IN/blog/engineering/)
-- [WebDev Blog](https://web.dev/blog/)
 
 ## Contact
 
