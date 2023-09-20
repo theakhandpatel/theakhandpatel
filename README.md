@@ -8,10 +8,6 @@ I am **Akhand Patel**, a recent graduate from the Master's program in Computer S
 
 Here is my [Resume](https://theakhandpatel.github.io/files/resume.pdf) for more details.
 
-## Why is my website not using the latest frameworks?
-
-Because I don't need to. I believe in simplicity and efficiency. If you're curious about this approach, check out the philosophy of [here](https://motherfuckingwebsite.com/).
-
 ## Tech I Know
 
 Here are some of the technologies I'm familiar with:
